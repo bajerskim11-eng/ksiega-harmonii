@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/thc", "destination": "/thc/index.html" },
+    { "source": "/thc/", "destination": "/thc/index.html" }
+  ]
+}
